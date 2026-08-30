@@ -120,10 +120,13 @@ Sales-Data-Analysis-SQL
 │   ├── sales_data.csv
 │   └── customers_data.csv
 │
+├── screenshots
+│   ├── 01_overall_performance.png
+│   ├── 02_revenue_by_product.png
+│   └── 03_revenue_by_region.png
+│
 ├── sql
 │   └── sales_analysis.sql
-│
-├── screenshots
 │
 └── README.md
 
