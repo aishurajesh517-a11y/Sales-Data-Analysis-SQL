@@ -114,7 +114,6 @@ The project answers the following questions:
 
 ## Project Structure
 
-```text
 Sales-Data-Analysis-SQL
 │
 ├── data
