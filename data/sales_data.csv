@@ -1,0 +1,101 @@
+order_id,order_date,customer_name,product,category,region,quantity,price
+1001,12-03-2025,Sneha,Laptop,Electronics,South,1,55000
+1002,01-06-2025,Sneha,Monitor,Electronics,South,1,11400
+1003,01-03-2025,Arjun,Mouse,Accessories,West,2,760
+1004,16-06-2025,Asha,Mouse,Accessories,North,2,840
+1005,31-05-2025,Meera,Desk,Furniture,North,1,6650
+1006,29-03-2025,Anjali,Office Chair,Furniture,South,1,5000
+1007,24-01-2025,Amit,Monitor,Electronics,West,1,12000
+1008,12-01-2025,Neha,Headphones,Accessories,North,2,2375
+1009,22-05-2025,Suresh,Monitor,Electronics,South,1,12000
+1010,30-06-2025,Ravi,Mouse,Accessories,West,1,800
+1011,01-03-2025,Divya,Monitor,Electronics,South,3,12600
+1012,12-06-2025,Rohan,Desk,Furniture,East,3,7000
+1013,23-02-2025,Neha,Printer,Electronics,North,2,8550
+1014,17-05-2025,Isha,Keyboard,Accessories,South,2,1500
+1015,11-03-2025,Manoj,Office Chair,Furniture,South,5,5000
+1016,28-02-2025,Amit,Laptop,Electronics,West,3,55000
+1017,17-01-2025,Suresh,Headphones,Accessories,South,1,2500
+1018,12-04-2025,Karan,Desk,Furniture,West,3,7350
+1019,05-02-2025,Vikram,Headphones,Accessories,East,1,2500
+1020,30-05-2025,Ravi,Office Chair,Furniture,West,1,5000
+1021,24-01-2025,Vikram,Desk,Furniture,East,3,6650
+1022,24-06-2025,Vikram,Keyboard,Accessories,East,1,1425
+1023,02-06-2025,Suresh,Office Chair,Furniture,South,5,5000
+1024,24-06-2025,Asha,Laptop,Electronics,North,2,55000
+1025,17-03-2025,Amit,Monitor,Electronics,West,1,12600
+1026,09-05-2025,Rahul,Headphones,Accessories,South,3,2375
+1027,09-02-2025,Divya,Mouse,Accessories,South,1,800
+1028,03-06-2025,Asha,Laptop,Electronics,North,1,52250
+1029,20-03-2025,Sneha,Printer,Electronics,South,1,9000
+1030,22-01-2025,Ravi,Monitor,Electronics,West,2,11400
+1031,02-02-2025,Asha,Keyboard,Accessories,North,2,1500
+1032,24-02-2025,Rohan,Office Chair,Furniture,East,4,5000
+1033,21-06-2025,Divya,Office Chair,Furniture,South,2,5250
+1034,31-01-2025,Nitin,Desk,Furniture,North,1,6650
+1035,31-05-2025,Amit,Laptop,Electronics,West,2,55000
+1036,11-06-2025,Rahul,Monitor,Electronics,South,1,11400
+1037,19-01-2025,Priya,Printer,Electronics,North,2,9000
+1038,19-05-2025,Pooja,Mouse,Accessories,West,1,840
+1039,15-04-2025,Meera,Desk,Furniture,North,1,6650
+1040,19-04-2025,Kavya,Printer,Electronics,South,1,8550
+1041,14-04-2025,Sneha,Laptop,Electronics,South,2,52250
+1042,18-02-2025,Meera,Mouse,Accessories,North,2,800
+1043,13-03-2025,Kavya,Keyboard,Accessories,South,2,1425
+1044,13-01-2025,Manoj,Monitor,Electronics,South,2,11400
+1045,12-02-2025,Arjun,Mouse,Accessories,West,1,840
+1046,16-01-2025,Karan,Office Chair,Furniture,West,1,4750
+1047,27-04-2025,Suresh,Headphones,Accessories,South,1,2625
+1048,17-03-2025,Vikram,Mouse,Accessories,East,1,760
+1049,22-03-2025,Ravi,Laptop,Electronics,West,1,57750
+1050,15-01-2025,Nitin,Keyboard,Accessories,North,4,1425
+1051,02-06-2025,Anjali,Monitor,Electronics,South,1,12000
+1052,26-05-2025,Suresh,Monitor,Electronics,South,1,11400
+1053,18-04-2025,Isha,Monitor,Electronics,South,2,12000
+1054,21-06-2025,Rohan,Mouse,Accessories,East,2,800
+1055,03-02-2025,Rohan,Office Chair,Furniture,East,2,5000
+1056,19-01-2025,Manoj,Printer,Electronics,South,1,8550
+1057,10-05-2025,Arjun,Mouse,Accessories,West,1,800
+1058,05-04-2025,Arjun,Mouse,Accessories,West,1,840
+1059,06-06-2025,Asha,Headphones,Accessories,North,5,2375
+1060,19-06-2025,Asha,Headphones,Accessories,North,1,2500
+1061,28-01-2025,Rohan,Monitor,Electronics,East,2,12000
+1062,04-06-2025,Rohan,Headphones,Accessories,East,1,2500
+1063,10-05-2025,Karan,Headphones,Accessories,West,2,2375
+1064,12-03-2025,Arjun,Office Chair,Furniture,West,1,5000
+1065,11-02-2025,Vikram,Headphones,Accessories,East,2,2625
+1066,29-01-2025,Asha,Laptop,Electronics,North,1,55000
+1067,05-04-2025,Asha,Laptop,Electronics,North,2,55000
+1068,11-01-2025,Kavya,Keyboard,Accessories,South,1,1425
+1069,24-06-2025,Neha,Mouse,Accessories,North,1,760
+1070,08-06-2025,Neha,Office Chair,Furniture,North,2,5000
+1071,16-04-2025,Anjali,Keyboard,Accessories,South,1,1500
+1072,10-03-2025,Kavya,Mouse,Accessories,South,1,760
+1073,01-05-2025,Suresh,Laptop,Electronics,South,1,57750
+1074,28-02-2025,Neha,Headphones,Accessories,North,1,2500
+1075,13-03-2025,Suresh,Printer,Electronics,South,3,9000
+1076,23-06-2025,Neha,Office Chair,Furniture,North,5,5000
+1077,08-03-2025,Rahul,Monitor,Electronics,South,1,12000
+1078,02-06-2025,Priya,Monitor,Electronics,North,1,12000
+1079,09-04-2025,Kavya,Monitor,Electronics,South,3,12000
+1080,22-04-2025,Rohan,Laptop,Electronics,East,1,55000
+1081,18-01-2025,Neha,Office Chair,Furniture,North,4,5000
+1082,19-06-2025,Isha,Printer,Electronics,South,3,9000
+1083,20-06-2025,Nitin,Headphones,Accessories,North,1,2625
+1084,19-02-2025,Divya,Keyboard,Accessories,South,1,1575
+1085,14-04-2025,Anjali,Headphones,Accessories,South,2,2375
+1086,23-02-2025,Divya,Headphones,Accessories,South,1,2500
+1087,24-04-2025,Manoj,Desk,Furniture,South,2,7350
+1088,14-03-2025,Anjali,Monitor,Electronics,South,2,12000
+1089,22-06-2025,Arjun,Mouse,Accessories,West,1,800
+1090,12-01-2025,Vikram,Laptop,Electronics,East,1,57750
+1091,27-04-2025,Isha,Monitor,Electronics,South,1,12000
+1092,13-04-2025,Suresh,Desk,Furniture,South,1,6650
+1093,26-02-2025,Sneha,Office Chair,Furniture,South,1,5250
+1094,01-02-2025,Priya,Mouse,Accessories,North,2,840
+1095,24-04-2025,Nitin,Printer,Electronics,North,2,9450
+1096,10-02-2025,Asha,Desk,Furniture,North,2,7350
+1097,05-03-2025,Manoj,Headphones,Accessories,South,3,2500
+1098,10-06-2025,Nitin,Desk,Furniture,North,1,7350
+1099,02-03-2025,Arjun,Headphones,Accessories,West,1,2500
+1100,05-02-2025,Asha,Monitor,Electronics,North,1,12600
