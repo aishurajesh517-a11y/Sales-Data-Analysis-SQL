@@ -113,7 +113,7 @@ The project answers the following questions:
 - **Jaipur** generated the highest city-level revenue at **₹453,715**.
 
 ## Project Structure
-
+```text
 Sales-Data-Analysis-SQL
 │
 ├── data
@@ -129,7 +129,7 @@ Sales-Data-Analysis-SQL
 │   └── sales_analysis.sql
 │
 └── README.md
-
+```
 ## How to Use This Project
 
 1. Install MySQL and MySQL Workbench.
