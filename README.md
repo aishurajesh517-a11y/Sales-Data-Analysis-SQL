@@ -149,3 +149,17 @@ The project demonstrates how SQL can be used to transform raw sales data into us
 ## Note
 
 The datasets used in this project are synthetic and were created for learning and portfolio purposes.
+
+## Screenshots
+
+### Overall Performance
+
+![Overall Performance](screenshots/01_overall_performance.png)
+
+### Revenue by Product
+
+![Revenue by Product](screenshots/02_revenue_by_product.png)
+
+### Revenue by Region
+
+![Revenue by Region](screenshots/03_revenue_by_region.png)
